@@ -1,2 +1,2 @@
-# arexe
-Arithmetic Expression Evaluator
+# arexe ("ar-ex-ee")
+Arithmetic Expression Evaluator 
